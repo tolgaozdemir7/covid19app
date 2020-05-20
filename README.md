@@ -1,4 +1,4 @@
 # covid19app
 Covid-19 tracker app with Flutter
 
-![Screenshot] (covid19app.png)
+![alt tag](https://github.com/tolgaozdemir7/covid19app/blob/master/covid19app.png)
