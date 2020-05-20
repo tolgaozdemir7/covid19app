@@ -6,8 +6,7 @@ import 'package:intl/intl.dart';
 import 'package:http/http.dart' as http;
 
 class WeeklyCovidStats with ChangeNotifier {
-  static const String apiKey =
-      '8829986cc6msheef6c473f38124bp1e639bjsn6b83e414c286';
+  static const String apiKey = '';
 
   List<CovidStats> _covidStats = [];
   bool isLoading = false;
